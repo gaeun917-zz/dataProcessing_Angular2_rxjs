@@ -1,0 +1,11 @@
+    `npm install`
+    `npm start`
+
+    used CouchDB
+
+    1. download couchDB
+    2. create DB -> verify
+    3. create new document
+    4. {"id":"settings", "filter":""}
+    5. configuration ->   enable CORES : select all documents
+    6. import http into app module
